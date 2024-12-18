@@ -6,7 +6,7 @@
 	"name": "Sonic Mania",
 	"short_name": "Sonic Mania",
 	"orientation": "any",
-	"scope": "/",
+	"scope": "./",
 	"start_url": "index.html",
 	"theme_color": "#fbb720",
 	"icons": [
